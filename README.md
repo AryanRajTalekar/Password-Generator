@@ -40,15 +40,6 @@ This project was created as a hands-on way to learn and apply core React hooks i
 
 ---
 
-## 📦 How to Run Locally
-
-```bash
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
-npm install
-npm run dev
-
-
 💡 Future Improvements
 Add password strength meter
 
@@ -62,6 +53,19 @@ Save recently generated passwords
 This project helped me understand:
 
 How to control side effects in React with useEffect
+
+
+
+
+## 📦 How to Run Locally
+
+```bash
+git clone https://github.com/your-username/password-generator.git
+cd password-generator
+npm install
+npm run dev
+
+
 
 The benefits of using useCallback to optimize performance
 
